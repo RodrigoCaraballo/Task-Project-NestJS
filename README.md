@@ -1,5 +1,6 @@
 
 # Reactive REST API - Task Management Project
+#### Full Stack Project - Front-End (https://github.com/RodrigoCaraballo/Task-Project-Angular)
 
 ### API Objective
 
@@ -69,6 +70,8 @@ For the use of the API, it is recommended to use POSTMAN, although you can use t
 -   If the operation was successful, it will return a list of objects of the Task class associated with that user
 
 # API REST Reactiva - Proyecto de gestión de Tareas
+#### Proyecto Full Stacj - Front-End (https://github.com/RodrigoCaraballo/Task-Project-Angular)
+	
 ### Objetivo de la API
 La creación de esta API se hizo con el objetivo de mejorar mis habilidades personales de programación con el Framework NestJS y con el objetivo extra de utilizarla en el desarrollo de un Web funcional para poner en practica habilidades de un Full Stack. Esta API permite la gestión de tareas de un usuario para gestionar tareas a realizar, creación y logrando editar las mismas. Además cuenta con un sistema de login con JWT, la API esta pensada para ser usada tomando a Firebase como referencia para el registro y inicio de sesión por eso se puede observar en la entidad Usuario que contiene el valor "uid".
 ### Requisitos para el uso de la API
